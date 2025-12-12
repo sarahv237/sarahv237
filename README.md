@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sarah Verhoff
+_Fourth-Year Ph.D. Candidate in Chemistry, Emory University_
 
-<!--
-**sarahv237/sarahv237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Designing and optimizing novel drug candidates using Cheminformatics and AI_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+I am a Ph.D. candidate in **Chemistry at Emory University**, where my research focuses on **drug discovery**, **machine learning**, **artificial intelligence**, and **traditional computational chemistry**.  
+
+My work centers on designing and optimizing novel drug candidates using AI.
+
+---
+
+## 📍 Research Interests
+- **Drug Discovery**  
+
+---
+
+## 🛠️ Skills and Tools
+**Languages:** Python
+
+---
+
+## 📫 Contact
+- 💼 **LinkedIn:** [linkedin.com/in/sarah-verhoff](https://www.linkedin.com/in/sarah-verhoff/)  
+- ✉️ **Email:** sarah.verhoff@emory.edu  
+
+---
